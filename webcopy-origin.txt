@@ -1,1308 +1,1308 @@
 Uri: https://assets.slater.app/slater/4593/11806.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\slater\4593\11806.js
+File Name: D:\Software Development\web-clones\dumemearts.com\slater\4593\11806.js
 Content Type: text/javascript
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@353cd1d5c2323cdd2cd390187211ed9174e4561d/custom js/about.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@353cd1d5c2323cdd2cd390187211ed9174e4561d\custom js\about.js
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@353cd1d5c2323cdd2cd390187211ed9174e4561d\custom js\about.js
 Content Type: application/javascript
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@353cd1d5c2323cdd2cd390187211ed9174e4561d/custom js/home.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@353cd1d5c2323cdd2cd390187211ed9174e4561d\custom js\home.js
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@353cd1d5c2323cdd2cd390187211ed9174e4561d\custom js\home.js
 Content Type: application/javascript
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04/videos/crane-project-compressed.mp4
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04\videos\crane-project-compressed.mp4
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04\videos\crane-project-compressed.mp4
 Content Type: video/mp4
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04/videos/ejraid-compressed.mp4
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04\videos\ejraid-compressed.mp4
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04\videos\ejraid-compressed.mp4
 Content Type: video/mp4
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04/videos/logitech-NEW-compressed.mp4
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04\videos\logitech-NEW-compressed.mp4
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04\videos\logitech-NEW-compressed.mp4
 Content Type: video/mp4
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04/videos/squad-project-compressed.mp4
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04\videos\squad-project-compressed.mp4
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@3e1bcf83b8c0f8153588ef8196097f062f913a04\videos\squad-project-compressed.mp4
 Content Type: video/mp4
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@c1c351de3d638b1645f5ddd1f565a5713380d7f8/custom js/contact.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@c1c351de3d638b1645f5ddd1f565a5713380d7f8\custom js\contact.js
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@c1c351de3d638b1645f5ddd1f565a5713380d7f8\custom js\contact.js
 Content Type: application/javascript
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@c1c351de3d638b1645f5ddd1f565a5713380d7f8/custom js/project-single.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@c1c351de3d638b1645f5ddd1f565a5713380d7f8\custom js\project-single.js
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@c1c351de3d638b1645f5ddd1f565a5713380d7f8\custom js\project-single.js
 Content Type: application/javascript
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@c1c351de3d638b1645f5ddd1f565a5713380d7f8/custom js/projects.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@c1c351de3d638b1645f5ddd1f565a5713380d7f8\custom js\projects.js
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@c1c351de3d638b1645f5ddd1f565a5713380d7f8\custom js\projects.js
 Content Type: application/javascript
 
 Uri: https://cdn.jsdelivr.net/gh/dumemearts/dumemearts-portfolio-2025@ef26a348130a794c19e640312250e20f5f9fead6/videos/vogue-compressed.mp4
-File Name: C:\Downloaded Web Sites\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@ef26a348130a794c19e640312250e20f5f9fead6\videos\vogue-compressed.mp4
+File Name: D:\Software Development\web-clones\dumemearts.com\gh\dumemearts\dumemearts-portfolio-2025@ef26a348130a794c19e640312250e20f5f9fead6\videos\vogue-compressed.mp4
 Content Type: video/mp4
 
 Uri: https://dumemearts.com/
-File Name: C:\Downloaded Web Sites\dumemearts.com\index.htm
+File Name: D:\Software Development\web-clones\dumemearts.com\index.htm
 Content Type: text/html
 
 Uri: https://dumemearts.com/about
-File Name: C:\Downloaded Web Sites\dumemearts.com\about.html
+File Name: D:\Software Development\web-clones\dumemearts.com\about.html
 Content Type: text/html
 
 Uri: https://dumemearts.com/contact
-File Name: C:\Downloaded Web Sites\dumemearts.com\contact.html
+File Name: D:\Software Development\web-clones\dumemearts.com\contact.html
 Content Type: text/html
 
 Uri: https://dumemearts.com/css/dumemearts.webflow.shared.7dc96fb5a.css
-File Name: C:\Downloaded Web Sites\dumemearts.com\css\dumemearts.webflow.shared.7dc96fb5a.css
+File Name: D:\Software Development\web-clones\dumemearts.com\css\dumemearts.webflow.shared.7dc96fb5a.css
 Content Type: text/css
 
 Uri: https://dumemearts.com/images/12b733f68c59cfa9881a8eee817cdcfc-201.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\12b733f68c59cfa9881a8eee817cdcfc-201.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\12b733f68c59cfa9881a8eee817cdcfc-201.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/1709474468610.jpeg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\1709474468610.jpeg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\1709474468610.jpeg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/230656875_67e1490a-f30d-467b-a928-d83e45adca21-201-p-500.png
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\230656875_67e1490a-f30d-467b-a928-d83e45adca21-201-p-500.png
+File Name: D:\Software Development\web-clones\dumemearts.com\images\230656875_67e1490a-f30d-467b-a928-d83e45adca21-201-p-500.png
 Content Type: image/png
 
 Uri: https://dumemearts.com/images/230656875_67e1490a-f30d-467b-a928-d83e45adca21-201-p-800.png
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\230656875_67e1490a-f30d-467b-a928-d83e45adca21-201-p-800.png
+File Name: D:\Software Development\web-clones\dumemearts.com\images\230656875_67e1490a-f30d-467b-a928-d83e45adca21-201-p-800.png
 Content Type: image/png
 
 Uri: https://dumemearts.com/images/230656875_67e1490a-f30d-467b-a928-d83e45adca21-201.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\230656875_67e1490a-f30d-467b-a928-d83e45adca21-201.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\230656875_67e1490a-f30d-467b-a928-d83e45adca21-201.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/3-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\3-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\3-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/3.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\3.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\3.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/324f61e87cae33d22e4a9906f54de0a2.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\324f61e87cae33d22e4a9906f54de0a2.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\324f61e87cae33d22e4a9906f54de0a2.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/3d-transcode.mp4
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\3d-transcode.mp4
+File Name: D:\Software Development\web-clones\dumemearts.com\images\3d-transcode.mp4
 Content Type: video/mp4
 
 Uri: https://dumemearts.com/images/4.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\4.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\4.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/6.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\6.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\6.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/67c08e35606d987aa75f41d2_spotifyy-201-p-500.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c08e35606d987aa75f41d2_spotifyy-201-p-500.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c08e35606d987aa75f41d2_spotifyy-201-p-500.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c08e35606d987aa75f41d2_spotifyy-201-p-800.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c08e35606d987aa75f41d2_spotifyy-201-p-800.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c08e35606d987aa75f41d2_spotifyy-201-p-800.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c08e35606d987aa75f41d2_spotifyy-201.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c08e35606d987aa75f41d2_spotifyy-201.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c08e35606d987aa75f41d2_spotifyy-201.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c0e5481852745b74d5dee9_st-201-p-500.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c0e5481852745b74d5dee9_st-201-p-500.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c0e5481852745b74d5dee9_st-201-p-500.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c0e5481852745b74d5dee9_st-201-p-800.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c0e5481852745b74d5dee9_st-201-p-800.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c0e5481852745b74d5dee9_st-201-p-800.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c0e5481852745b74d5dee9_st-201.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c0e5481852745b74d5dee9_st-201.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c0e5481852745b74d5dee9_st-201.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c9efa43d655f35fffdf237_img_5396-201.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c9efa43d655f35fffdf237_img_5396-201.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c9efa43d655f35fffdf237_img_5396-201.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c9efa4b05495d3b5a2cef0_main-201-201.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c9efa4b05495d3b5a2cef0_main-201-201.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c9efa4b05495d3b5a2cef0_main-201-201.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c9efa4c518e55a96d3c824_img_4490.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c9efa4c518e55a96d3c824_img_4490.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c9efa4c518e55a96d3c824_img_4490.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c9efa4cf874f43858c3ff3_img_2827.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c9efa4cf874f43858c3ff3_img_2827.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c9efa4cf874f43858c3ff3_img_2827.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c9efa4fb0068d6a03991ae_dsc00353-2.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c9efa4fb0068d6a03991ae_dsc00353-2.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c9efa4fb0068d6a03991ae_dsc00353-2.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c9f6358dcc0759bc9e7e1a_image.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c9f6358dcc0759bc9e7e1a_image.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c9f6358dcc0759bc9e7e1a_image.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c9f635d4e367442d9852f6_1704896134431.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c9f635d4e367442d9852f6_1704896134431.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c9f635d4e367442d9852f6_1704896134431.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67c9f636293964e0ad9cf959_ugo.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67c9f636293964e0ad9cf959_ugo.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67c9f636293964e0ad9cf959_ugo.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67e7ff65f29a4db72198c1a7_hero-section.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67e7ff65f29a4db72198c1a7_hero-section.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67e7ff65f29a4db72198c1a7_hero-section.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67e8033310ab90a9691f7ee6_card.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67e8033310ab90a9691f7ee6_card.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67e8033310ab90a9691f7ee6_card.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67e8033310ab90a9691f7ef4_image-201016.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67e8033310ab90a9691f7ef4_image-201016.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67e8033310ab90a9691f7ef4_image-201016.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67e803333506c6385a4530d9_logitech_hero_08-201.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67e803333506c6385a4530d9_logitech_hero_08-201.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67e803333506c6385a4530d9_logitech_hero_08-201.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed20a459a0e24c0fc0766e_frame-201171276264.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed20a459a0e24c0fc0766e_frame-201171276264.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed20a459a0e24c0fc0766e_frame-201171276264.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed20a45bbe0d5e85d32f4e_frame-201171276263.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed20a45bbe0d5e85d32f4e_frame-201171276263.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed20a45bbe0d5e85d32f4e_frame-201171276263.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed20a465e9017eaf2ecc8f_hero-section.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed20a465e9017eaf2ecc8f_hero-section.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed20a465e9017eaf2ecc8f_hero-section.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed20a4884b8ab44af85957_hero-section-1.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed20a4884b8ab44af85957_hero-section-1.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed20a4884b8ab44af85957_hero-section-1.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed20a4bc556926a89771ae_frame-201171276261.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed20a4bc556926a89771ae_frame-201171276261.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed20a4bc556926a89771ae_frame-201171276261.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed24e6490a05cfa312be4f_frame-201171276262.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed24e6490a05cfa312be4f_frame-201171276262.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed24e6490a05cfa312be4f_frame-201171276262.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed2761477318fa89080a3f_frame-201171276262.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed2761477318fa89080a3f_frame-201171276262.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed2761477318fa89080a3f_frame-201171276262.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed276189bea4e7edd40ae0_frame-201171276261.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed276189bea4e7edd40ae0_frame-201171276261.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed276189bea4e7edd40ae0_frame-201171276261.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed2761a19fe190aeca7659_frame-201171276263.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed2761a19fe190aeca7659_frame-201171276263.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed2761a19fe190aeca7659_frame-201171276263.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed2761e35b8f05323643d6_frame-201171276264.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed2761e35b8f05323643d6_frame-201171276264.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed2761e35b8f05323643d6_frame-201171276264.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67ed2761e35b8f05323643eb_hero-section.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67ed2761e35b8f05323643eb_hero-section.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67ed2761e35b8f05323643eb_hero-section.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67efffd54c3848cc880d5c91_hero-section-1.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67efffd54c3848cc880d5c91_hero-section-1.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67efffd54c3848cc880d5c91_hero-section-1.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67efffd559c6d6e04fc536e6_hero-section.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67efffd559c6d6e04fc536e6_hero-section.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67efffd559c6d6e04fc536e6_hero-section.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67efffd5906e0dc173ad7d98_frame-201171276459.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67efffd5906e0dc173ad7d98_frame-201171276459.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67efffd5906e0dc173ad7d98_frame-201171276459.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67efffd6a702fb25c8790a85_featured-projects-alt.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67efffd6a702fb25c8790a85_featured-projects-alt.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67efffd6a702fb25c8790a85_featured-projects-alt.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f001579f0818c53b11dd3e_frame-201171276250.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f001579f0818c53b11dd3e_frame-201171276250.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f001579f0818c53b11dd3e_frame-201171276250.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00158ee17203bdf58efa7_gkjdsfuijkdsgkuijsd.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00158ee17203bdf58efa7_gkjdsfuijkdsgkuijsd.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00158ee17203bdf58efa7_gkjdsfuijkdsgkuijsd.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00a7247fd21db10fb1da5_frame-201171276462.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00a7247fd21db10fb1da5_frame-201171276462.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00a7247fd21db10fb1da5_frame-201171276462.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00a72680c8059e677fd7a_hero-section.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00a72680c8059e677fd7a_hero-section.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00a72680c8059e677fd7a_hero-section.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00a7304694667c6296c55_fashion-20editorial-20vogue-20image-20model-20black-2c-20black-20and-20white-20stylish-1.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00a7304694667c6296c55_fashion-20editorial-20vogue-20image-20model-20black-2c-20black-20and-20white-20stylish-1.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00a7304694667c6296c55_fashion-20editorial-20vogue-20image-20model-20black-2c-20black-20and-20white-20stylish-1.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00a733d958ed64bbbe75e_hero-section-1.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00a733d958ed64bbbe75e_hero-section-1.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00a733d958ed64bbbe75e_hero-section-1.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00a736a65346d688da768_fashion-20editorial-20vogue-20image-20model-20black-2c-20black-20and-20white-20stylish.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00a736a65346d688da768_fashion-20editorial-20vogue-20image-20model-20black-2c-20black-20and-20white-20stylish.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00a736a65346d688da768_fashion-20editorial-20vogue-20image-20model-20black-2c-20black-20and-20white-20stylish.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00a73ace8c442fc6874a4_hero-section-2.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00a73ace8c442fc6874a4_hero-section-2.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00a73ace8c442fc6874a4_hero-section-2.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b0fa6e25cfeaaa1a0ac_landing-201.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b0fa6e25cfeaaa1a0ac_landing-201.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b0fa6e25cfeaaa1a0ac_landing-201.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b159c33dd609151c475_frame-201171276263.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b159c33dd609151c475_frame-201171276263.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b159c33dd609151c475_frame-201171276263.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b15b27ebb8cd2e88df5_card.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b15b27ebb8cd2e88df5_card.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b15b27ebb8cd2e88df5_card.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b15e1ef27d427da5129_frame-201171276261.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b15e1ef27d427da5129_frame-201171276261.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b15e1ef27d427da5129_frame-201171276261.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b15ee17203bdf617e87_vogue-20model-20black-20and-20white.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b15ee17203bdf617e87_vogue-20model-20black-20and-20white.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b15ee17203bdf617e87_vogue-20model-20black-20and-20white.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b959297b04c5b753f6e_frame-201171276263.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b959297b04c5b753f6e_frame-201171276263.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b959297b04c5b753f6e_frame-201171276263.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b96633e9100bf675708_frame-201171276262.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b96633e9100bf675708_frame-201171276262.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b96633e9100bf675708_frame-201171276262.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b967ee70c01fe19e488_hero-section.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b967ee70c01fe19e488_hero-section.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b967ee70c01fe19e488_hero-section.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b969c33dd609152333a_hero-section2.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b969c33dd609152333a_hero-section2.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b969c33dd609152333a_hero-section2.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b96a6e25cfeaaa21aaf_vogue-20editorial-20models-20colourful-20imagery.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b96a6e25cfeaaa21aaf_vogue-20editorial-20models-20colourful-20imagery.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b96a6e25cfeaaa21aaf_vogue-20editorial-20models-20colourful-20imagery.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b96c45db8e2590a2afc_frame-201171276261.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b96c45db8e2590a2afc_frame-201171276261.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b96c45db8e2590a2afc_frame-201171276261.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00b971e31e9c7d7d867ec_big.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00b971e31e9c7d7d867ec_big.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00b971e31e9c7d7d867ec_big.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00ce62b6a13e98d48d70f_hero-section.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00ce62b6a13e98d48d70f_hero-section.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00ce62b6a13e98d48d70f_hero-section.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00ce67b361a0a29c44f44_frame-201171276264.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00ce67b361a0a29c44f44_frame-201171276264.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00ce67b361a0a29c44f44_frame-201171276264.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00ce687df84d988611e3e_frame-201171276262.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00ce687df84d988611e3e_frame-201171276262.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00ce687df84d988611e3e_frame-201171276262.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00ce6e614ec2bb3a9dca2_frame-201171276261.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00ce6e614ec2bb3a9dca2_frame-201171276261.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00ce6e614ec2bb3a9dca2_frame-201171276261.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00d461aecc0979a3d843b_klara-kulikova-laz3exwfjko-unsplash.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00d461aecc0979a3d843b_klara-kulikova-laz3exwfjko-unsplash.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00d461aecc0979a3d843b_klara-kulikova-laz3exwfjko-unsplash.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00d4655f4ae780183f565_pexels-allan-franca-carmo-3133881.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00d4655f4ae780183f565_pexels-allan-franca-carmo-3133881.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00d4655f4ae780183f565_pexels-allan-franca-carmo-3133881.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00d4693578ca382c811fa_pexels-ali-shot-13124853.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00d4693578ca382c811fa_pexels-ali-shot-13124853.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00d4693578ca382c811fa_pexels-ali-shot-13124853.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00d46ace8c442fc6ae05f_pexels-ike-louie-natividad-2462044.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00d46ace8c442fc6ae05f_pexels-ike-louie-natividad-2462044.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00d46ace8c442fc6ae05f_pexels-ike-louie-natividad-2462044.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00d46b27ebb8cd2ea771b_shayan-rostami-jrdxolkryuu-unsplash.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00d46b27ebb8cd2ea771b_shayan-rostami-jrdxolkryuu-unsplash.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00d46b27ebb8cd2ea771b_shayan-rostami-jrdxolkryuu-unsplash.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00d46ccb72aa84fcab8bd_pexels-cottonbro-studio-8558368.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00d46ccb72aa84fcab8bd_pexels-cottonbro-studio-8558368.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00d46ccb72aa84fcab8bd_pexels-cottonbro-studio-8558368.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00d4731adfdafaba9cffa_pexels-jan-valle-4061164.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00d4731adfdafaba9cffa_pexels-jan-valle-4061164.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00d4731adfdafaba9cffa_pexels-jan-valle-4061164.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00d47b9c9b9648e0003b6_oladimeji-odunsi-irtbk5ytb5o-unsplash.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00d47b9c9b9648e0003b6_oladimeji-odunsi-irtbk5ytb5o-unsplash.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00d47b9c9b9648e0003b6_oladimeji-odunsi-irtbk5ytb5o-unsplash.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f00d47f71075456ef4ca62_aurela-redenica-aclwl-v2xl0-unsplash.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f00d47f71075456ef4ca62_aurela-redenica-aclwl-v2xl0-unsplash.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f00d47f71075456ef4ca62_aurela-redenica-aclwl-v2xl0-unsplash.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46936614029d11c1d57f3_r.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46936614029d11c1d57f3_r.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46936614029d11c1d57f3_r.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46936632dcf17ca1ea4ab_e.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46936632dcf17ca1ea4ab_e.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46936632dcf17ca1ea4ab_e.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f469368a74c2bea92ff8f3_t.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f469368a74c2bea92ff8f3_t.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f469368a74c2bea92ff8f3_t.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f469369df5cd830c038d90_o.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f469369df5cd830c038d90_o.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f469369df5cd830c038d90_o.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46936a0809bf6c0dfce5e_w.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46936a0809bf6c0dfce5e_w.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46936a0809bf6c0dfce5e_w.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46936d27dee97f8917c0c_i.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46936d27dee97f8917c0c_i.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46936d27dee97f8917c0c_i.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46936e61cdb8f4ef6f436_q.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46936e61cdb8f4ef6f436_q.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46936e61cdb8f4ef6f436_q.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46936e61cdb8f4ef6f439_u.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46936e61cdb8f4ef6f439_u.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46936e61cdb8f4ef6f439_u.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46936ec064ef3e61430a3_y.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46936ec064ef3e61430a3_y.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46936ec064ef3e61430a3_y.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46a55a72aee0e356fc87f_5.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46a55a72aee0e356fc87f_5.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46a55a72aee0e356fc87f_5.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46a5671717f352ee70510_2.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46a5671717f352ee70510_2.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46a5671717f352ee70510_2.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46a56de43d575aeed70de_1.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46a56de43d575aeed70de_1.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46a56de43d575aeed70de_1.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46aeda3e8559db0ddbd5b_s.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46aeda3e8559db0ddbd5b_s.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46aeda3e8559db0ddbd5b_s.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46aee09beda2bb5c5f685_a.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46aee09beda2bb5c5f685_a.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46aee09beda2bb5c5f685_a.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46aee71717f352ee8bd22_d.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46aee71717f352ee8bd22_d.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46aee71717f352ee8bd22_d.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46aeea0809bf6c0e30a51_f.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46aeea0809bf6c0e30a51_f.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46aeea0809bf6c0e30a51_f.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46bfb09beda2bb5c7a481_f.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46bfb09beda2bb5c7a481_f.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46bfb09beda2bb5c7a481_f.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46bfb9211e3047d6370bb_ab.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46bfb9211e3047d6370bb_ab.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46bfb9211e3047d6370bb_ab.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46bfbd27dee97f8945f6a_h.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46bfbd27dee97f8945f6a_h.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46bfbd27dee97f8945f6a_h.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46bfbdfb29c1506d591c7_q.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46bfbdfb29c1506d591c7_q.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46bfbdfb29c1506d591c7_q.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46bfbe61cdb8f4efb3128_k.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46bfbe61cdb8f4efb3128_k.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46bfbe61cdb8f4efb3128_k.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46d0e03a2a232ae98f814_b.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46d0e03a2a232ae98f814_b.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46d0e03a2a232ae98f814_b.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46d0e30cf03bc86bf0d4e_5.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46d0e30cf03bc86bf0d4e_5.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46d0e30cf03bc86bf0d4e_5.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46d0e8a74c2bea9349725_2.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46d0e8a74c2bea9349725_2.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46d0e8a74c2bea9349725_2.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46d0eec064ef3e6195e36_1.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46d0eec064ef3e6195e36_1.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46d0eec064ef3e6195e36_1.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f46d4f62e289e79d21e5df_a.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f46d4f62e289e79d21e5df_a.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f46d4f62e289e79d21e5df_a.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f4754a71717f352ef1c592_4.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f4754a71717f352ef1c592_4.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f4754a71717f352ef1c592_4.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f530b4d4a5201a05ba699b_frame-201171276503.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f530b4d4a5201a05ba699b_frame-201171276503.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f530b4d4a5201a05ba699b_frame-201171276503.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f530b51e7c896d551f4088_frame-201171276506.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f530b51e7c896d551f4088_frame-201171276506.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f530b51e7c896d551f4088_frame-201171276506.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f530b51fc743dc9bf3748d_frame-201171276500.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f530b51fc743dc9bf3748d_frame-201171276500.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f530b51fc743dc9bf3748d_frame-201171276500.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f530b52f65a593aa9bea09_frame-201171276499.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f530b52f65a593aa9bea09_frame-201171276499.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f530b52f65a593aa9bea09_frame-201171276499.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f530b561d82e41bd58dc14_frame-201171276501.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f530b561d82e41bd58dc14_frame-201171276501.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f530b561d82e41bd58dc14_frame-201171276501.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f530b5b9e341dfdfbb3bcb_frame-201171276502.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f530b5b9e341dfdfbb3bcb_frame-201171276502.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f530b5b9e341dfdfbb3bcb_frame-201171276502.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f530b5cc270c71e4a2f660_frame-201171276504.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f530b5cc270c71e4a2f660_frame-201171276504.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f530b5cc270c71e4a2f660_frame-201171276504.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f530b5eb3238cb8a7acb9b_frame-201171276505.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f530b5eb3238cb8a7acb9b_frame-201171276505.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f530b5eb3238cb8a7acb9b_frame-201171276505.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f531f3c86fed1d917bb269_frame-201171276507.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f531f3c86fed1d917bb269_frame-201171276507.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f531f3c86fed1d917bb269_frame-201171276507.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f53229145f54c5b56da023_6.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f53229145f54c5b56da023_6.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f53229145f54c5b56da023_6.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f5322a29c437d296360ac4_3.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f5322a29c437d296360ac4_3.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f5322a29c437d296360ac4_3.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f5322a50e3dedcad1cfbfa_5.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f5322a50e3dedcad1cfbfa_5.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f5322a50e3dedcad1cfbfa_5.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f5322aa357913d7b670c2b_1.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f5322aa357913d7b670c2b_1.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f5322aa357913d7b670c2b_1.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f5322ad8376778a3e89278_2.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f5322ad8376778a3e89278_2.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f5322ad8376778a3e89278_2.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f5322b1674d8bdaaa49edf_4.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f5322b1674d8bdaaa49edf_4.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f5322b1674d8bdaaa49edf_4.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f532bb2497c6b25b69bb98_g.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f532bb2497c6b25b69bb98_g.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f532bb2497c6b25b69bb98_g.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f532bc2497c6b25b69bbd5_f.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f532bc2497c6b25b69bbd5_f.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f532bc2497c6b25b69bbd5_f.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f532bc5197c2d7bc1441fe_a.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f532bc5197c2d7bc1441fe_a.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f532bc5197c2d7bc1441fe_a.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533020a8169ff53dbfd0f_y.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533020a8169ff53dbfd0f_y.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533020a8169ff53dbfd0f_y.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533028b4217fbd9de639a_r.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533028b4217fbd9de639a_r.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533028b4217fbd9de639a_r.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f5330349fa23fc4064eeb1_e.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f5330349fa23fc4064eeb1_e.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f5330349fa23fc4064eeb1_e.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533037d52a6f02a2b683b_t.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533037d52a6f02a2b683b_t.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533037d52a6f02a2b683b_t.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533038ad914977d15c0ac_o.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533038ad914977d15c0ac_o.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533038ad914977d15c0ac_o.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533039a478320bda19846_u.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533039a478320bda19846_u.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533039a478320bda19846_u.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f53303b4647cba222ff41d_w.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f53303b4647cba222ff41d_w.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f53303b4647cba222ff41d_w.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533c292d76548fa2701d3_n.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533c292d76548fa2701d3_n.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533c292d76548fa2701d3_n.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533c30a8169ff53dc9dea_x.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533c30a8169ff53dc9dea_x.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533c30a8169ff53dc9dea_x.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533c34a9acfc66936b200_v.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533c34a9acfc66936b200_v.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533c34a9acfc66936b200_v.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533c5c9f874f11d8796fc_a.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533c5c9f874f11d8796fc_a.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533c5c9f874f11d8796fc_a.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f533caf13a07aa072f2d2f_i.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f533caf13a07aa072f2d2f_i.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f533caf13a07aa072f2d2f_i.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f536dfb856a08345e26fe8_q.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f536dfb856a08345e26fe8_q.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f536dfb856a08345e26fe8_q.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e0e0b55f98b46626430_frame-201171276530.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e0e0b55f98b46626430_frame-201171276530.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e0e0b55f98b46626430_frame-201171276530.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e0e42f550918fb0d393_frame-201171276525.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e0e42f550918fb0d393_frame-201171276525.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e0e42f550918fb0d393_frame-201171276525.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e0e5f14df84d3bd2af5_frame-201171276526.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e0e5f14df84d3bd2af5_frame-201171276526.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e0e5f14df84d3bd2af5_frame-201171276526.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e0e753c0e0d34822a24_frame-201171276531.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e0e753c0e0d34822a24_frame-201171276531.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e0e753c0e0d34822a24_frame-201171276531.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e0e7e3f8ad7c765a1b9_frame-201171276528.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e0e7e3f8ad7c765a1b9_frame-201171276528.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e0e7e3f8ad7c765a1b9_frame-201171276528.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e0e7e3f8ad7c765a1c2_frame-201171276529.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e0e7e3f8ad7c765a1c2_frame-201171276529.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e0e7e3f8ad7c765a1c2_frame-201171276529.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e0e87d3635687447469_frame-201171276532.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e0e87d3635687447469_frame-201171276532.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e0e87d3635687447469_frame-201171276532.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e0ec4e4d3a24ca31ac6_frame-201171276527.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e0ec4e4d3a24ca31ac6_frame-201171276527.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e0ec4e4d3a24ca31ac6_frame-201171276527.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e0ec69557265b691469_frame-201171276535.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e0ec69557265b691469_frame-201171276535.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e0ec69557265b691469_frame-201171276535.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e927e3f8ad7c7660841_1.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e927e3f8ad7c7660841_1.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e927e3f8ad7c7660841_1.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e9293ae5a3e2ea27eed_6.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e9293ae5a3e2ea27eed_6.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e9293ae5a3e2ea27eed_6.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e92ce1fbd67146a0133_5.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e92ce1fbd67146a0133_5.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e92ce1fbd67146a0133_5.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e93484523d4f3e00d61_3.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e93484523d4f3e00d61_3.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e93484523d4f3e00d61_3.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e9356d672af562c38d8_2.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e9356d672af562c38d8_2.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e9356d672af562c38d8_2.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59e93aa0b5fc059ae4ad1_4.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59e93aa0b5fc059ae4ad1_4.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59e93aa0b5fc059ae4ad1_4.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59f04f82a80dd9824a9fe_charity-20image-20africa-20black-20and-20white.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59f04f82a80dd9824a9fe_charity-20image-20africa-20black-20and-20white.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59f04f82a80dd9824a9fe_charity-20image-20africa-20black-20and-20white.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59f05753c0e0d3482e2ac_frame-201171276265.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59f05753c0e0d3482e2ac_frame-201171276265.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59f05753c0e0d3482e2ac_frame-201171276265.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59f4e0b55f98b46636529_frame-201171276261.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59f4e0b55f98b46636529_frame-201171276261.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59f4e0b55f98b46636529_frame-201171276261.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59f829422afee917e0715_black-20white-20and-20green-20gradient-20background-20with-20the-20green-20being-20-2314f195.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59f829422afee917e0715_black-20white-20and-20green-20gradient-20background-20with-20the-20green-20being-20-2314f195.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59f829422afee917e0715_black-20white-20and-20green-20gradient-20background-20with-20the-20green-20being-20-2314f195.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59fc7e40c83c629b89dc9_african-20charity-20foundation.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59fc7e40c83c629b89dc9_african-20charity-20foundation.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59fc7e40c83c629b89dc9_african-20charity-20foundation.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59fc8a755184a16ac1169_card.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59fc8a755184a16ac1169_card.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59fc8a755184a16ac1169_card.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/67f59fc8d41d641d18e83603_frame-201171276261.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\67f59fc8d41d641d18e83603_frame-201171276261.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\67f59fc8d41d641d18e83603_frame-201171276261.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/6c6269b41bb7ad1f838cc064500061f5.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\6c6269b41bb7ad1f838cc064500061f5.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\6c6269b41bb7ad1f838cc064500061f5.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/about-bg.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\about-bg.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\about-bg.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/app-icon.png
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\app-icon.png
+File Name: D:\Software Development\web-clones\dumemearts.com\images\app-icon.png
 Content Type: image/png
 
 Uri: https://dumemearts.com/images/background-image.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\background-image.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\background-image.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/blade.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\blade.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\blade.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/box.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\box.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\box.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/card-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\card-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\card-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/card-2.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\card-2.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\card-2.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/card-3.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\card-3.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\card-3.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/card-4.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\card-4.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\card-4.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/card-5.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\card-5.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\card-5.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/card-6.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\card-6.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\card-6.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/card.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\card.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\card.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/certificate-20-4-201-p-500.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\certificate-20-4-201-p-500.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\certificate-20-4-201-p-500.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/certificate-20-4-201.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\certificate-20-4-201.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\certificate-20-4-201.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/chaney-wide.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\chaney-wide.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\chaney-wide.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/charity-20image-20children-20black-20and-20white.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\charity-20image-20children-20black-20and-20white.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\charity-20image-20children-20black-20and-20white.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/chevron-down-white.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\chevron-down-white.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\chevron-down-white.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/chevron-down.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\chevron-down.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\chevron-down.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/circle-ornament.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\circle-ornament.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\circle-ornament.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/cssda-nominee-white-vote.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\cssda-nominee-white-vote.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\cssda-nominee-white-vote.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/d-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\d-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\d-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/d.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\d.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\d.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/digital-20art-p-1080.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\digital-20art-p-1080.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\digital-20art-p-1080.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/digital-20art-p-500.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\digital-20art-p-500.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\digital-20art-p-500.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/digital-20art-p-800.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\digital-20art-p-800.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\digital-20art-p-800.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/digital-20art.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\digital-20art.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\digital-20art.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/eye-new.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\eye-new.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\eye-new.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/eye.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\eye.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\eye.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/favicon.png
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\favicon.png
+File Name: D:\Software Development\web-clones\dumemearts.com\images\favicon.png
 Content Type: image/png
 
 Uri: https://dumemearts.com/images/figma.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\figma.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\figma.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276102.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276102.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276102.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276252.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276252.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276252.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/frame-201171276254.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276254.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276254.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/frame-201171276261.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276261.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276261.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276262-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276262-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276262-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276262-2.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276262-2.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276262-2.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276262-3.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276262-3.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276262-3.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276262-4.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276262-4.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276262-4.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276262.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276262.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276262.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276263.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276263.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276263.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276264-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276264-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276264-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276264-2.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276264-2.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276264-2.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276264.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276264.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276264.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276265-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276265-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276265-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276265-2.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276265-2.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276265-2.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276265-3.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276265-3.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276265-3.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276265-4.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276265-4.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276265-4.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276265-5.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276265-5.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276265-5.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276265-6.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276265-6.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276265-6.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276265-7.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276265-7.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276265-7.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-201171276265.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-201171276265.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-201171276265.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame-20122.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-20122.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-20122.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/frame-20135.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame-20135.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame-20135.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/frame.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\frame.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\frame.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/g-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\g-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\g-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/g.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\g.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\g.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/gl-3bobe.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\gl-3bobe.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\gl-3bobe.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/globe.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\globe.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\globe.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/gradient-final.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\gradient-final.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\gradient-final.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/gradient.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\gradient.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\gradient.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/griddd-p-500.png
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\griddd-p-500.png
+File Name: D:\Software Development\web-clones\dumemearts.com\images\griddd-p-500.png
 Content Type: image/png
 
 Uri: https://dumemearts.com/images/griddd.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\griddd.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\griddd.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/h-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\h-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\h-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/h.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\h.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\h.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/hazard-long.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hazard-long.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hazard-long.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/hazard.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hazard.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hazard.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/hero-section-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hero-section-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hero-section-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/hero-section-2.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hero-section-2.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hero-section-2.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/hero-section.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hero-section.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hero-section.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/hero-video-new-poster-00001.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hero-video-new-poster-00001.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hero-video-new-poster-00001.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/hero-video-new-transcode.mp4
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hero-video-new-transcode.mp4
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hero-video-new-transcode.mp4
 Content Type: video/mp4
 
 Uri: https://dumemearts.com/images/hero-video-new-transcode.webm
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hero-video-new-transcode.webm
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hero-video-new-transcode.webm
 Content Type: video/webm
 
 Uri: https://dumemearts.com/images/hkguisebold.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hkguisebold.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hkguisebold.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/hkguiseregular.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hkguiseregular.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hkguiseregular.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/hkguisesemibold.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\hkguisesemibold.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\hkguisesemibold.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/home.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\home.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\home.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/humane-bold.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\humane-bold.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\humane-bold.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/humane-medium.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\humane-medium.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\humane-medium.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/humane-semibold.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\humane-semibold.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\humane-semibold.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/illustration-p-1080.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\illustration-p-1080.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\illustration-p-1080.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/illustration-p-500.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\illustration-p-500.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\illustration-p-500.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/illustration-p-800.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\illustration-p-800.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\illustration-p-800.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/illustration.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\illustration.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\illustration.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/image-201524.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\image-201524.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\image-201524.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/image-201573.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\image-201573.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\image-201573.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/image-201577.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\image-201577.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\image-201577.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/image-frame-main.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\image-frame-main.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\image-frame-main.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/logitech-20branding-p-1080.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\logitech-20branding-p-1080.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\logitech-20branding-p-1080.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/logitech-20branding-p-500.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\logitech-20branding-p-500.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\logitech-20branding-p-500.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/logitech-20branding-p-800.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\logitech-20branding-p-800.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\logitech-20branding-p-800.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/logitech-20branding.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\logitech-20branding.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\logitech-20branding.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/logitech_film_14-204.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\logitech_film_14-204.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\logitech_film_14-204.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/lumon.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\lumon.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\lumon.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/m.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\m.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\m.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/main.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\main.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\main.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/me-2-201.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\me-2-201.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\me-2-201.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/me-2-202.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\me-2-202.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\me-2-202.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/me-2-203.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\me-2-203.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\me-2-203.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/me-2-204.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\me-2-204.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\me-2-204.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/me-2-205.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\me-2-205.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\me-2-205.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/me-2-206-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\me-2-206-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\me-2-206-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/me-2-207.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\me-2-207.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\me-2-207.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/metrosans-medium.woff2
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\metrosans-medium.woff2
+File Name: D:\Software Development\web-clones\dumemearts.com\images\metrosans-medium.woff2
 Content Type: font/woff2
 
 Uri: https://dumemearts.com/images/orna-1.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\orna-1.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\orna-1.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/orna-2.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\orna-2.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\orna-2.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/outer-grid-bigger.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\outer-grid-bigger.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\outer-grid-bigger.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/pole.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\pole.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\pole.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/pupil.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\pupil.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\pupil.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/s.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\s.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\s.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/screenshot-202021-09-15-20at-2016.33-202.jpg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\screenshot-202021-09-15-20at-2016.33-202.jpg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\screenshot-202021-09-15-20at-2016.33-202.jpg
 Content Type: image/jpeg
 
 Uri: https://dumemearts.com/images/screenshot-202025-05-04-20at-2015.28.22.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\screenshot-202025-05-04-20at-2015.28.22.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\screenshot-202025-05-04-20at-2015.28.22.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/stat-20paragraph-1.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\stat-20paragraph-1.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\stat-20paragraph-1.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/stat-20paragraph-2.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\stat-20paragraph-2.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\stat-20paragraph-2.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/stat-20paragraph-3.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\stat-20paragraph-3.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\stat-20paragraph-3.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/stat-20paragraph-4.avif
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\stat-20paragraph-4.avif
+File Name: D:\Software Development\web-clones\dumemearts.com\images\stat-20paragraph-4.avif
 Content Type: image/avif
 
 Uri: https://dumemearts.com/images/top.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\top.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\top.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/v.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\v.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\v.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/webflow.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\webflow.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\webflow.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/images/z.svg
-File Name: C:\Downloaded Web Sites\dumemearts.com\images\z.svg
+File Name: D:\Software Development\web-clones\dumemearts.com\images\z.svg
 Content Type: image/svg+xml
 
 Uri: https://dumemearts.com/js/custombounce.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\custombounce.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\custombounce.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/customease.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\customease.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\customease.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/customwiggle.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\customwiggle.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\customwiggle.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/draggable.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\draggable.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\draggable.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/drawsvgplugin.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\drawsvgplugin.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\drawsvgplugin.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/easepack.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\easepack.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\easepack.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/flip.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\flip.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\flip.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/gsap.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\gsap.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\gsap.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/inertiaplugin.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\inertiaplugin.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\inertiaplugin.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/jquery.js?site=67b873ab284925c72f7f5176
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\jquery.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\jquery.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/scrambletextplugin.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\scrambletextplugin.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\scrambletextplugin.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/scrollsmoother.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\scrollsmoother.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\scrollsmoother.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/scrolltoplugin.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\scrolltoplugin.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\scrolltoplugin.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/scrolltrigger.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\scrolltrigger.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\scrolltrigger.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/splittext.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\splittext.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\splittext.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/textplugin.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\textplugin.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\textplugin.min.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/webflow-script-1.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\webflow-script-1.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\webflow-script-1.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/webflow-script.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\webflow-script.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\webflow-script.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/webflow.schunk.36b8fb49256177c8.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\webflow.schunk.36b8fb49256177c8.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\webflow.schunk.36b8fb49256177c8.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/webflow.schunk.82f44582d86d1ea9.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\webflow.schunk.82f44582d86d1ea9.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\webflow.schunk.82f44582d86d1ea9.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/js/webflow.schunk.e66a874af38577db.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\js\webflow.schunk.e66a874af38577db.js
+File Name: D:\Software Development\web-clones\dumemearts.com\js\webflow.schunk.e66a874af38577db.js
 Content Type: application/javascript
 
 Uri: https://dumemearts.com/projects
-File Name: C:\Downloaded Web Sites\dumemearts.com\projects.html
+File Name: D:\Software Development\web-clones\dumemearts.com\projects.html
 Content Type: text/html
 
 Uri: https://dumemearts.com/projects/crane
-File Name: C:\Downloaded Web Sites\dumemearts.com\projects\crane.html
+File Name: D:\Software Development\web-clones\dumemearts.com\projects\crane.html
 Content Type: text/html
 
 Uri: https://dumemearts.com/projects/ejraid
-File Name: C:\Downloaded Web Sites\dumemearts.com\projects\ejraid.html
+File Name: D:\Software Development\web-clones\dumemearts.com\projects\ejraid.html
 Content Type: text/html
 
 Uri: https://dumemearts.com/projects/logitech-g
-File Name: C:\Downloaded Web Sites\dumemearts.com\projects\logitech-g.html
+File Name: D:\Software Development\web-clones\dumemearts.com\projects\logitech-g.html
 Content Type: text/html
 
 Uri: https://dumemearts.com/projects/squad
-File Name: C:\Downloaded Web Sites\dumemearts.com\projects\squad.html
+File Name: D:\Software Development\web-clones\dumemearts.com\projects\squad.html
 Content Type: text/html
 
 Uri: https://dumemearts.com/projects/vogue
-File Name: C:\Downloaded Web Sites\dumemearts.com\projects\vogue.html
+File Name: D:\Software Development\web-clones\dumemearts.com\projects\vogue.html
 Content Type: text/html
 
 Uri: https://hubspotonwebflow.com/assets/js/form-124.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\assets\js\form-124.js
+File Name: D:\Software Development\web-clones\dumemearts.com\assets\js\form-124.js
 Content Type: application/javascript
 
 Uri: https://slater.app/4593/11811.css
-File Name: C:\Downloaded Web Sites\dumemearts.com\4593\11811.css
+File Name: D:\Software Development\web-clones\dumemearts.com\4593\11811.css
 Content Type: text/css
 
 Uri: https://slater.app/4593/8246.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\4593\8246.js
+File Name: D:\Software Development\web-clones\dumemearts.com\4593\8246.js
 Content Type: application/javascript
 
 Uri: https://slater.app/4593/8247.css
-File Name: C:\Downloaded Web Sites\dumemearts.com\4593\8247.css
+File Name: D:\Software Development\web-clones\dumemearts.com\4593\8247.css
 Content Type: text/css
 
 Uri: https://unpkg.com/lenis@1.1.20/dist/lenis.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\lenis@1.1.20\dist\lenis.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\lenis@1.1.20\dist\lenis.min.js
 Content Type: text/javascript
 
 Uri: https://unpkg.com/split-type@0.3.4/umd/index.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\split-type@0.3.4\umd\index.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\split-type@0.3.4\umd\index.min.js
 Content Type: text/javascript
 
 Uri: https://unpkg.com/swiper@8.4.7/swiper-bundle.min.css
-File Name: C:\Downloaded Web Sites\dumemearts.com\swiper@8.4.7\swiper-bundle.min.css
+File Name: D:\Software Development\web-clones\dumemearts.com\swiper@8.4.7\swiper-bundle.min.css
 Content Type: text/css
 
 Uri: https://unpkg.com/swiper@8.4.7/swiper-bundle.min.js
-File Name: C:\Downloaded Web Sites\dumemearts.com\swiper@8.4.7\swiper-bundle.min.js
+File Name: D:\Software Development\web-clones\dumemearts.com\swiper@8.4.7\swiper-bundle.min.js
 Content Type: text/javascript
 
